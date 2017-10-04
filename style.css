@@ -20,7 +20,7 @@
 5.0 Navigation
 	5.1 Links
 	5.2 Menus
-  
+
 6.0 Footer
 7.0 Blog
 8.0 Widgets
@@ -2569,7 +2569,7 @@ opacity: 0.7
   overflow: hidden;
   position: relative;
   background: rgb(64, 66, 76);
-  border-radius: 4px;
+  border-radius: 8px;
 }
 .grid-post {
   width: 49.6%;
