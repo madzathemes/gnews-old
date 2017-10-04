@@ -2915,7 +2915,7 @@ opacity: 0.7
 }
 .single-cat-wrap .post-categories li a:before {
   content: "";
-  width: 40px;
+  width: 10px;
   height: 10px;
   background: #ff0400;
   position: absolute;
