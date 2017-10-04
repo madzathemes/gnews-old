@@ -87,7 +87,7 @@ else if(!empty($option['menu_background_width'])) {
 							</div>
 							<div class="search-close"></div>
 						<?php } ?>
-							
+
 						</div>
 					</div>
 				</div>
@@ -149,7 +149,7 @@ function gnews_logo() {
 		</a>
 	<?php } else { ?>
 		<a class="logo"  href="<?php echo esc_url(home_url('/'));?>">
-			<img src="<?php echo get_template_directory_uri(); ?>/inc/img/logo.png" width="108" height="15" alt="<?php echo the_title(); ?>" />
+			<img src="<?php echo get_template_directory_uri(); ?>/inc/img/logo.png" width="189" height="48" alt="<?php echo the_title(); ?>" />
 		</a>
 	<?php }
 }
