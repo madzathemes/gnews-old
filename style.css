@@ -1539,7 +1539,7 @@ ul.sf-menu ul li a:hover, div.sf-menu ul ul li a:hover {
   position: absolute;
   margin-top: 16px;
   font-size: 16px;
-  color: #717171;
+  color: #000;
   right: 0px;
 }
 .nav-search-input:before {
