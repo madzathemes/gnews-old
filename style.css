@@ -1287,10 +1287,13 @@ ul.sf-menu ul li a:hover, div.sf-menu ul ul li a:hover {
   font-size: 15px;
 }
 .top-nav .nav {
-  text-align: right;
+  text-align: left;
 }
 .top-nav .nav ul li {
   text-align: left;
+}
+.menu-header-container {
+  padding-left: 40px;
 }
 .small-on .top-nav .nav {
 
