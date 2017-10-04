@@ -1282,7 +1282,7 @@ ul.sf-menu ul li a:hover, div.sf-menu ul ul li a:hover {
   vertical-align: middle;
 }
 .top-nav a {
-  color: #ccc!important;
+  color: #000!important;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 12px;
