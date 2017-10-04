@@ -5647,7 +5647,7 @@ li.mtc-buy {
 .mt-head-date {
   text-transform: uppercase;
   font-weight: bold;
-  background: #40424c;
+  background: red;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
