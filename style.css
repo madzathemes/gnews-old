@@ -1000,8 +1000,8 @@ ul.sf-menu > li > ul > li:hover > ul, div.sf-menu > ul > li > ul > li:hover > ul
 }
 ul.sf-menu > li,
 div.sf-menu ul > li {
-  margin-left:20px;
-  margin-right:15px;
+  margin-left:15px;
+  margin-right:10px;
 }
 ul.sf-menu ul li,
 div.sf-menu ul ul li {
